@@ -4,6 +4,9 @@
 
 <img width="2311" height="1597" alt="{F04A6D72-0CAB-4F5A-BEC0-534DA49EC01F}" src="https://github.com/user-attachments/assets/19b6d2b4-bf80-4dec-9c60-10ab153636ab" />
 
+<img width="1792" height="1384" alt="{2F127662-0B02-4AA8-B9CE-C0A5240D1694}" src="https://github.com/user-attachments/assets/2fea3222-c36a-44bd-acd0-11bdea4f21cf" />
+
+
 
 **Project Q1** is a low-cost laptop shell powered entirely by your smartphone. Instead of buying a separate low-end computer, you dock your phone into the device and use it like a normal laptop.
 
