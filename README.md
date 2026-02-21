@@ -1,153 +1,45 @@
-# Phone-powered Laptop
-Project name: Project Q1
+# Phone-Powered Laptop (Project Q1)
 
-**Big Bang Competition 2024 — Bors Farago**
+<img width="2077" height="1769" alt="{AF860720-BDA6-4E37-8E51-20DD4E72E646}" src="https://github.com/user-attachments/assets/8bf7a1f4-d285-431f-ba47-a094d40a93c5" />
 
-Project Q1 is an innovative low-cost computing solution that transforms a smartphone into a fully functional laptop. The project tackles e-waste, affordability, and performance limitations in entry-level computers by leveraging the power users already carry in their pockets.
 
----
+<img width="1235" height="1721" alt="{7E62F9CB-6BB5-4EB2-8C33-8BBD9A565E75}" src="https://github.com/user-attachments/assets/442c2bae-eb03-492a-b0e5-707d8b541c3f" />
 
-## 📸 Demo
+<img width="2317" height="1525" alt="{81BBC38E-34A5-4043-9B3C-0B00F1CFBE10}" src="https://github.com/user-attachments/assets/47463d04-0a29-4c58-8f06-17d32d01e42d" />
 
-![Project Q1 slide](assets/slide-01.png)
 
----
+**Project Q1** is a low-cost laptop shell powered entirely by your smartphone. Instead of buying a separate low-end computer, you dock your phone into the device and use it like a normal laptop.
 
-## ❗ Problem
+This project was awarded **Runner-Up for the Intermediate Technology Award** at the Big Bang Competition 2024.
 
-Entry-level laptops today suffer from several major issues:
+## Why I built this
 
-* ♻️ Significant **e-waste** due to short device lifespans
-* 💸 High **cost barrier** for basic computing
-* 🔧 Limited **customisability**
-* 🐢 Poor **performance** that frustrates users
+Many affordable laptops are slow, expensive for what they offer, and contribute to growing e-waste. At the same time, most people already carry a powerful smartphone.
 
-Many people already own powerful smartphones, yet still need to purchase separate low-performance laptops.
+Project Q1 explores a simple question:
 
----
+> Can your phone replace your laptop for everyday tasks?
 
-## 💡 Solution — What is Project Q1?
+## What it does
 
-**Project Q1 is a laptop powered by your phone.**
+* Turns your phone into a laptop
+* Provides screen, keyboard, and trackpad
+* Keeps costs very low (~£60 target)
+* Reuses hardware people already own
 
-Instead of buying a full computer, users dock their smartphone into a lightweight laptop shell that provides:
+## Current status
 
-* Display
-* Keyboard
-* Trackpad
-* Ports
-* Laptop form factor
+I designed and 3D-printed a working prototype, including:
 
-The phone becomes the brain of the system.
+* Custom hinge
+* Phone dock
+* Display mount
 
-![Concept](assets/slide-05.png)
+The prototype has been tested for basic tasks like email, browsing, and light apps.
 
----
+## What’s next
 
-## 🎯 Target Audience
+I plan to develop this concept into a more polished device.
 
-Project Q1 is designed for people who:
-
-* 📱 Already own a smartphone
-* 💻 Need an entry-level computer
-* 💰 Want a low-cost solution
-* 🌍 Care about reducing e-waste
-
----
-
-## 💰 Cost Comparison
-
-| Device         | Typical Cost |
-| -------------- | ------------ |
-| Chromebook     | ~£300        |
-| Windows laptop | ~£400        |
-| **Project Q1** | **~£60**     |
-
-✅ Dramatically lower cost
-✅ Reuses existing hardware
-✅ Better value proposition
-
----
-
-## ✨ Additional Benefits
-
-* ♻️ Reduced e-waste
-* ⚡ Better performance (uses phone CPU)
-* 📲 Native app support
-* 📡 LTE connectivity
-* 📞 Phone call capability
-* 🔄 Continuous workflow between phone and desktop
-
-![Benefits](assets/slide-07.png)
-
----
-
-## 🛠️ Development Process
-
-The project followed this journey:
-
-1. Discovered desktop UI capability on a new phone
-2. Observed real-world usage patterns
-3. Generated the core concept
-4. Conducted market research
-5. Explored off-the-shelf components (~20 hours)
-6. Prototyped using 3D printing (~50 hours)
-
-   * Custom hinge
-   * Phone socket
-   * Display holder
-7. Tested real-world usage
-
-   * Email
-   * Games
-   * Facebook
-
-![Prototype](assets/slide-10.png)
-
----
-
-## 🔧 Potential Improvements
-
-Future iterations could include:
-
-* More compact design
-* Adjustable phone holder for multiple models
-* Additional I/O ports
-* Integrated manufacturing approach
-
----
-
-## 🧪 Technologies Used
-
-* 3D printing (Ender 3 Pro)
-* Smartphone desktop mode
-* Hardware prototyping
-* Market analysis
-
----
-
-## 🌍 Vision
-
-Project Q1 aims to:
-
-* Reduce global e-waste
-* Lower the cost of computing
-* Extend the useful life of smartphones
-* Provide accessible computing worldwide
-
----
-
-## 🏆 Competition
-
-Submitted to the **Big Bang Competition 2024**.
-
----
-
-## 📬 Feedback
-
-Questions, ideas, or collaboration proposals are welcome!
-
----
-
-**Author:** Bors Farago
-**Project:** Project Q1
+Author: Bors Farago
+Competition: Big Bang Competition 2024
