@@ -33,6 +33,7 @@ I wanted to answer a simple question:
 
 I designed and 3D-printed a working prototype as a proof of concept:
 
+* Uses a Samsung S23 with Samsung DEX
 * Custom hinge
 * Phone dock
 * Display mount
