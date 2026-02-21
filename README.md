@@ -44,5 +44,3 @@ Overall, this prototype has been a large success. Everything functions as expect
 I plan to develop this concept into a more polished device.
 
 Author: Bors Farago
-
-Competition: Big Bang Competition 2024
