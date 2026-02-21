@@ -2,10 +2,7 @@
 
 <img width="2077" height="1769" alt="{AF860720-BDA6-4E37-8E51-20DD4E72E646}" src="https://github.com/user-attachments/assets/8bf7a1f4-d285-431f-ba47-a094d40a93c5" />
 
-
-<img width="1235" height="1721" alt="{7E62F9CB-6BB5-4EB2-8C33-8BBD9A565E75}" src="https://github.com/user-attachments/assets/442c2bae-eb03-492a-b0e5-707d8b541c3f" />
-
-<img width="2317" height="1525" alt="{81BBC38E-34A5-4043-9B3C-0B00F1CFBE10}" src="https://github.com/user-attachments/assets/47463d04-0a29-4c58-8f06-17d32d01e42d" />
+<img width="2311" height="1597" alt="{F04A6D72-0CAB-4F5A-BEC0-534DA49EC01F}" src="https://github.com/user-attachments/assets/19b6d2b4-bf80-4dec-9c60-10ab153636ab" />
 
 
 **Project Q1** is a low-cost laptop shell powered entirely by your smartphone. Instead of buying a separate low-end computer, you dock your phone into the device and use it like a normal laptop.
